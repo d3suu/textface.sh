@@ -31,5 +31,5 @@ alt + o
 ```
 
 ## Special thanks
-@mangopdf aka "Alex" - Creator of `textfac.es`, for creating this great text faces database ( ͡° ͜ʖ ͡°)
-Luke Smith - For making videos on how he uses dmenu, which inspired me to make this script
+ - @mangopdf aka "Alex" - Creator of `textfac.es`, for creating this great text faces database ( ͡° ͜ʖ ͡°)
+ - Luke Smith - For making videos on how he uses dmenu, which inspired me to make this script
