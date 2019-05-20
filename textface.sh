@@ -1,3 +1,3 @@
 #!/bin/sh
 faces=$HOME/.config/textfaces/faces.txt
-cat $faces | dmenu -l 5 | xclip -selection c
+cat $faces | dmenu -l 5 | tr '\n' ' ' | xclip -selection c
