@@ -5,6 +5,7 @@ Text faces in dmenu
 Basically `textfac.es` but in dmenu, so you don't have to start browser to copy your favourite text face.
 
 ## Dependencies
+ - xclip
  - sxhkd
  - dmenu
 
