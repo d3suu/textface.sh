@@ -1,6 +1,8 @@
 # textface.sh
 Text faces in dmenu
 
+![demo](https://raw.githubusercontent.com/d3suu/textface.sh/master/owo.png)
+
 ## Description
 Basically `textfac.es` but in dmenu, so you don't have to start browser to copy your favourite text face.
 
